@@ -1,0 +1,6 @@
+JeuPuissance4
+ ├── GameState      (plateau, règles, victoire, undo/redo)
+ ├── GameAI         (minimax, score, décision)
+ ├── GameSave       (config, save/load)
+ ├── GameUI         (draw, menu, affichage)
+ └── App            (boucle principale)
