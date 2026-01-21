@@ -1,6 +1,11 @@
-JeuPuissance4
+JeuPuissance4 (ConnectFourGame)
  ├── GameState      (plateau, règles, victoire, undo/redo)
  ├── GameAI         (minimax, score, décision)
  ├── GameSave       (config, save/load)
  ├── GameUI         (draw, menu, affichage)
  └── App            (boucle principale)
+
+
+usr/local/vm/Temp001
+Moduler le code : les fonctions, en fonction de l'architecture 
+Prostgre : Meilleur Parallélisme (puissance)
